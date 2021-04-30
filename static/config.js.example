@@ -1,0 +1,16 @@
+var domain = "kb.urbanemc.net"
+var name = "枯白的匣子 KUBAI DESIGNS - 设计、生活、自媒体"
+var API_SECRET = "sgDKdoKpQfDGP80g1DqL"
+
+var color = "white"
+var donateqrurl = "https://image.idealclover.cn/blog/assets/donateqrwechat.jpg"
+
+export default {
+    getdomain: domain,
+    getname: name,
+    getapisecret: API_SECRET,
+
+	getname: name,
+	getcolor: color,
+	getdonateqrurl: donateqrurl
+}
