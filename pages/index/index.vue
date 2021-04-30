@@ -81,7 +81,7 @@
 			});
 			// #endif
 			return {
-				title: '设计、生活、自媒体，感谢阁下的留意！',
+				title: '来看看这个博客小程序！',
 				path: '/pages/index/index?'
 			}
 		}
